@@ -26,4 +26,4 @@ public:
     }
 };
 // time complexity:- O(N)
-//space complexity:- O(N)
+//space complexity:- O(1)
