@@ -11,3 +11,5 @@ public:
         return xorr;
     }
 };
+// time complexity:- O(N)
+//space complexity:- O(1)
