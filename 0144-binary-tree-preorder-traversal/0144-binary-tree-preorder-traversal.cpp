@@ -12,18 +12,20 @@
 class Solution {
 public:
 
-void findPre(TreeNode* root, vector<int> &preorder)
-{
-    if(root==NULL)
-        return;
-    preorder.push_back(root->val);
-    findPre(root->left,preorder);
-   findPre(root->right,preorder);
-    
-}
+
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> preorder;
-        findPre(root, preorder);
+     if(root==NULL) return preorder;
+        stack<TreeNode*>st;
+        st.push(root);
+        while(!st.empty())
+        {
+            TreeNode* node=st.top();
+            st.pop();
+            preorder.push_back(node->val);
+            if(node->right) st.push(node->right);
+            if(node->left) st.push(node->left);
+        }
         return preorder;
         
         
