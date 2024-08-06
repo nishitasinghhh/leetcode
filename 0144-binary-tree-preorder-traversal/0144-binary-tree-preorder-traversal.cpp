@@ -29,3 +29,5 @@ void findPre(TreeNode* root, vector<int> &preorder)
         
     }
 };
+//time complexity:-O(N);
+//space complexity:-O(N);
