@@ -1,29 +1,16 @@
 class Solution {
 public:
-void bfs(vector<vector<int>>& image, int sr,int sc,int color, vector<vector<int>> &vis,int startColor)
-{
-     int n=image.size();
+void dfs(vector<vector<int>>& image, int row, int col, int color,   vector<vector<int>> &vis, int startColor, int drow[], int dcol[])
+{  int n=image.size();
         int m=image[0].size();
-    queue<pair<int,int>>q;
-    q.push({sr,sc});
-    vis[sr][sc]=color;
-    int drow[]={-1,0,1,0};
-        int dcol[]={0,1,0,-1};
-    while(!q.empty())
+    vis[row][col]=color;
+    for(int i=0; i<4; i++)
     {
-        int r=q.front().first;
-        int c=q.front().second;
-        q.pop();
-        
-        for(int i=0; i<4; i++)
+        int r=row+drow[i];
+        int c=col+dcol[i];
+        if(r>=0 && r<n && c>=0 && c<m && image[r][c]==startColor && vis[r][c]!=color)
         {
-            int row=r+drow[i];
-            int col=c+dcol[i];
-            if(row>=0 && row<n && col>=0 && col<m && image[row][col]==startColor && vis[row][col]!=color )
-            {
-                vis[row][col]=color;
-                q.push({row,col});
-            }
+            dfs(image,r,c,color,vis,startColor,drow,dcol);
         }
     }
 }
@@ -32,7 +19,9 @@ void bfs(vector<vector<int>>& image, int sr,int sc,int color, vector<vector<int>
         int m=image[0].size();
         vector<vector<int>>vis=image;
         int startColor=image[sr][sc];
-        bfs(image,sr,sc,color,vis,startColor);
+        int drow[]={-1,1,0,0};
+        int dcol[]={0,0,-1,1};
+        dfs(image,sr,sc,color,vis,startColor,drow,dcol);
         return vis;
     }
 };
