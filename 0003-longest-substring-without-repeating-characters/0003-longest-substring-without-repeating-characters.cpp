@@ -13,8 +13,9 @@ public:
                 first++;
             }
             count[s[second]]=1;
-            len=max(len,second-first+1);
+            len=max(len,second-first+  1);
             second++;
+            
         }
         return len;
     }
