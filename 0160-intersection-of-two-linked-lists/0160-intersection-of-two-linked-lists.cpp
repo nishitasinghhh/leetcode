@@ -11,21 +11,18 @@ public:
 
 
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-      unordered_map<ListNode*,int>mpp;
-        ListNode* temp=headA;
-        while(temp)
+     unordered_set<ListNode*>st;
+        while(headA!=NULL)
         {
-            mpp[temp]=1;
-            temp=temp->next;
+            st.insert(headA);
+            headA=headA->next;
         }
-        temp=headB;
-        while(temp)
+        while(headB!=NULL)
         {
-            if(mpp.find(temp)!=mpp.end())
-                return temp;
-            temp=temp->next;
+            if(st.find(headB)!=st.end())
+                return headB;
+            headB=headB->next;
         }
         return NULL;
-        
     }
 };
