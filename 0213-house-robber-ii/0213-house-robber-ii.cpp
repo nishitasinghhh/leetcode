@@ -19,6 +19,7 @@ public:
     int rob(vector<int>& nums) {
         vector<int>temp1;
         vector<int>temp2;
+       
         int n=nums.size();
         if(n==1) return nums[0];
         for(int i=0; i<n; i++)
