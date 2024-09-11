@@ -1,9 +1,9 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-      const int chart=256;
-        if(s.size()!=t.size()) return false;
-        int count[chart]={0};
+      if(s.size()!=t.size())
+          return false;
+        int count[256]={0};
         for(int i=0; i<s.size(); i++)
         {
             count[s[i]]++;
