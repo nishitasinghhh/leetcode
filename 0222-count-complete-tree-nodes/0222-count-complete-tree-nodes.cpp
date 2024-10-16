@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-int findLeftH(TreeNode* root)
+int findLeftHeight(TreeNode* root)
 {
     int lh=0;
     while(root)
@@ -21,7 +21,7 @@ int findLeftH(TreeNode* root)
     }
     return lh;
 }
-    int findRightH(TreeNode* root)
+    int findRightHeight(TreeNode* root)
 {
     int rh=0;
     while(root)
@@ -32,9 +32,10 @@ int findLeftH(TreeNode* root)
     return rh;
 }
     int countNodes(TreeNode* root) {
-        if(root==NULL) return 0;
-        int lh=findLeftH(root);
-        int rh=findRightH(root);
+       if(root==NULL)
+           return 0;
+        int lh=findLeftHeight(root);
+        int rh=findRightHeight(root);
         if(lh==rh) return (1<<lh)-1;
         return 1+countNodes(root->left)+countNodes(root->right);
     }
