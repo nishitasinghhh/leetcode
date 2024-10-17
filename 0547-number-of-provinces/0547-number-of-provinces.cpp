@@ -7,36 +7,39 @@ public:
 void dfs(int node, vector<int>adj[], vector<int> &vis)
 {
     vis[node]=1;
-    for(auto it:adj[node])
-    {  if(!vis[it])
-        dfs(it,adj,vis);
+    for(auto it: adj[node])
+    {
+        if(!vis[it])
+        {
+            dfs(it,adj,vis);
+        }
     }
 }
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int V=isConnected.size();
-        vector<int>adj[V];
-        //to change adj matrix to adj list
-        for(int i=0; i<V; i++)
+       int v=isConnected.size();
+        vector<int>adj[v];
+        for(int i=0; i<v; i++)
         {
-            for(int j=0; j<V; j++)
+            for(int j=0; j<v; j++)
             {
-                if(isConnected[i][j]==1 && i!=j)
+                if(isConnected[i][j]==1  && i!=j)
                 {
                     adj[i].push_back(j);
-                    adj[j].push_back(i);
+                adj[j].push_back(i);
                 }
+                
             }
         }
-        vector<int>vis(V,0);
-        int no_of_province=0;
-        for(int i=0; i<V; i++)
+        int num_of_province=0;
+        vector<int>vis(v,0);
+        for(int i=0; i<v; i++)
         {
             if(!vis[i])
             {
-                no_of_province++;
+                num_of_province++;
                 dfs(i,adj,vis);
             }
         }
-        return no_of_province;
+        return num_of_province;
     }
 };
