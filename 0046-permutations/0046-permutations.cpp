@@ -1,34 +1,35 @@
 class Solution {
 public:
 
-    void recurPermute(vector<int> &ds, vector<vector<int>> & ans, vector<int> &nums, int freq[])
+    void findPermutations(vector<int>& nums,vector<vector<int>>&ans,vector<int>&ds,int n,int freq[])
     {
-        if(ds.size()==nums.size())
+        if(ds.size()==n)
         {
             ans.push_back(ds);
             return;
         }
-        for(int i=0; i<nums.size(); i++)
+        for(int i=0; i<n; i++)
         {
             if(!freq[i])
             {
                 ds.push_back(nums[i]);
                 freq[i]=1;
-                recurPermute(ds,ans,nums,freq);
+                findPermutations(nums,ans,ds,n,freq);
                 freq[i]=0;
                 ds.pop_back();
             }
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> ans;
+        vector<vector<int>>ans;
         vector<int>ds;
-        int freq[nums.size()];
-        for(int i=0; i<nums.size(); i++)
-        {
-            freq[i]=0;
-        }
-        recurPermute(ds,ans,nums,freq);
+        int n=nums.size();
+        int freq[n];
+       for(int i=0; i<n; i++)
+       {
+           freq[i]=0;
+       }
+        findPermutations(nums,ans,ds,n,freq);
         return ans;
     }
 };
