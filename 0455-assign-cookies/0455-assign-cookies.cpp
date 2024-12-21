@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findContentChildren(vector<int>& g, vector<int>& s) {
-        int n=g.size();
+       int n=g.size();
         int m=s.size();
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
@@ -11,9 +11,9 @@ public:
         {
             if(g[r]<=s[l])
             {
-                r++;
+                r=r+1;
             }
-            l++;
+            l=l+1;
         }
         return r;
     }
