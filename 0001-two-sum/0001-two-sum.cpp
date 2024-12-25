@@ -6,10 +6,10 @@ class Solution{
         for(int i=0; i<nums.size(); i++)
         {
             int num=nums[i];
-            int more=target-num;
-            if(mpp.find(more)!=mpp.end())
+            int rem=target-num;
+            if(mpp.find(rem)!=mpp.end())
             {
-                return {i,mpp[more]};
+                return {mpp[rem],i};
             }
             mpp[num]=i;
         }
