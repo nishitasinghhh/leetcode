@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nishitasinghhh/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/nishitasinghhh/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/nishitasinghhh/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/nishitasinghhh/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishitasinghhh/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nishitasinghhh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nishitasinghhh/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/nishitasinghhh/leetcode/tree/master/0075-sort-colors) |
 ## Linked List
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nishitasinghhh/leetcode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/nishitasinghhh/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishitasinghhh/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
