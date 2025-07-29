@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishitasinghhh/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/nishitasinghhh/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nishitasinghhh/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishitasinghhh/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nishitasinghhh/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Array
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nishitasinghhh/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishitasinghhh/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/nishitasinghhh/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishitasinghhh/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nishitasinghhh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishitasinghhh/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/nishitasinghhh/leetcode/tree/master/0143-reorder-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishitasinghhh/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,4 +151,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishitasinghhh/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishitasinghhh/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
