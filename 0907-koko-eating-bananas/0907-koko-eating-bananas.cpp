@@ -1,37 +1,41 @@
 class Solution {
 public:
-int findTotalHours(vector<int>& piles,int k)
+int findK(vector<int>& piles, int h,int mid)
 {
-    int totalH = 0;
-    int n = piles.size();
-    //find total hours:
-    for (int i = 0; i < n; i++) {
-        totalH += ceil((double)(piles[i]) / (double)(k));
-    }
-    return totalH;
-}
-int findMax(vector<int>& piles)
-{
-    int maxi=INT_MIN;
+    long long totalH=0;
     for(int i=0; i<piles.size(); i++)
     {
-        maxi=max(piles[i],maxi);
+        totalH+=ceil((double)(piles[i])/(double)(mid));
     }
-    return maxi;
+    if(totalH<=h) return 1;
+    return 0;
 }
-    int minEatingSpeed(vector<int>& piles, int h) {
+    int findMax(vector<int>& piles)
+    {
+        int maxi=INT_MIN;
         int n=piles.size();
-        int low=1;
-        int high=findMax(piles);
-        while(low<=high)
+        for(int i=0; i<n; i++)
         {
-            int mid=(low+high)/2;
-            int totalHours=findTotalHours(piles,mid);
-            if(totalHours<=h)
-            high=mid-1;
-            else
-            low=mid+1;
+            maxi=max(maxi,piles[i]);
         }
-        return low;
+        return maxi;
+    }
+    int minEatingSpeed(vector<int>& piles, int h) {
+       int low=1;
+       int high=findMax(piles);
+       while(low<=high)
+       {
+        int mid=(low+high)/2;
+        if(findK(piles,h,mid))
+        {
+            high=mid-1;
+        }
+        else
+        low=mid+1;
+       }
+       return low;
+        
     }
 };
+//time complexity:- O(logn+O(n)+O(n))
+//space complexity:-O(1)
