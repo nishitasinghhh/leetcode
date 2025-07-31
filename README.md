@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nishitasinghhh/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishitasinghhh/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/nishitasinghhh/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0907-koko-eating-bananas](https://github.com/nishitasinghhh/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishitasinghhh/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nishitasinghhh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishitasinghhh/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nishitasinghhh/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nishitasinghhh/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishitasinghhh/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0907-koko-eating-bananas](https://github.com/nishitasinghhh/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
