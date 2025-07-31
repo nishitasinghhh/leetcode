@@ -5,14 +5,14 @@ public:
         unordered_map<int,int>mpp;
         mpp[0]=1;
         int preSum=0;
-        int cnt=0;
+        int count=0;
         for(int i=0; i<n; i++)
         {
             preSum+=nums[i];
             int rem=preSum-k;
-            cnt+=mpp[rem];
+            count+=mpp[rem];
             mpp[preSum]++;
         }
-        return cnt;
+        return count;
     }
 };
