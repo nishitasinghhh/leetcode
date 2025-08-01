@@ -1,9 +1,9 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-      vector<vector<int>>ans;
-        sort(nums.begin(),nums.end());
         int n=nums.size();
+        sort(nums.begin(),nums.end());
+        vector<vector<int>>ans;
         for(int i=0; i<n; i++)
         {
             if(i!=0 && nums[i]==nums[i-1]) continue;
@@ -13,13 +13,9 @@ public:
             {
                 int sum=nums[i]+nums[j]+nums[k];
                 if(sum<0)
-                {
-                    j++;
-                }
+                j++;
                 else if(sum>0)
-                {
-                    k--;
-                }
+                k--;
                 else
                 {
                     vector<int>temp={nums[i],nums[j],nums[k]};
@@ -34,5 +30,3 @@ public:
         return ans;
     }
 };
-// time complexity:O(N*logN)+o(N*N)
-//space complexity:-O(no of unique triplets)
