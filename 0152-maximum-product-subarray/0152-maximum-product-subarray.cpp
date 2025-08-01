@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-   double prefix=1;
+        double prefix=0;
         double suffix=0;
         double ans=nums[0];
         int n=nums.size();
@@ -9,13 +9,10 @@ public:
         {
             if(prefix==0) prefix=1;
             if(suffix==0) suffix=1;
-            prefix=prefix*nums[i];
+             prefix=prefix*nums[i];
             suffix=suffix*nums[n-i-1];
-            ans= max(ans,max(prefix,suffix));
-            
+            ans=max(ans,max(prefix,suffix));
         }
         return ans;
     }
 };
-//time complexity:-O(N);
-//space complexity:-O(1)
