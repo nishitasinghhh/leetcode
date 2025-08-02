@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nishitasinghhh/leetcode/tree/master/0048-rotate-image) |
+| [0556-next-greater-element-iii](https://github.com/nishitasinghhh/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishitasinghhh/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nishitasinghhh/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nishitasinghhh/leetcode/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishitasinghhh/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nishitasinghhh/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0556-next-greater-element-iii](https://github.com/nishitasinghhh/leetcode/tree/master/0556-next-greater-element-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nishitasinghhh/leetcode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/nishitasinghhh/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishitasinghhh/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0556-next-greater-element-iii](https://github.com/nishitasinghhh/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nishitasinghhh/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishitasinghhh/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
