@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/nishitasinghhh/leetcode/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/nishitasinghhh/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/nishitasinghhh/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nishitasinghhh/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishitasinghhh/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nishitasinghhh/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/nishitasinghhh/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nishitasinghhh/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Iterator
 |  |
 | ------- |
@@ -232,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nishitasinghhh/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nishitasinghhh/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
