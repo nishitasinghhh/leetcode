@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nishitasinghhh/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nishitasinghhh/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nishitasinghhh/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0542-01-matrix](https://github.com/nishitasinghhh/leetcode/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nishitasinghhh/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishitasinghhh/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishitasinghhh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/nishitasinghhh/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0542-01-matrix](https://github.com/nishitasinghhh/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nishitasinghhh/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/nishitasinghhh/leetcode/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/nishitasinghhh/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nishitasinghhh/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nishitasinghhh/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishitasinghhh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/nishitasinghhh/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nishitasinghhh/leetcode/tree/master/0733-flood-fill) |
 ## Prefix Sum
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/nishitasinghhh/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/nishitasinghhh/leetcode/tree/master/0542-01-matrix) |
 ## Queue
 |  |
 | ------- |
