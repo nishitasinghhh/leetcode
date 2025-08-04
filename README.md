@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nishitasinghhh/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/nishitasinghhh/leetcode/tree/master/0048-rotate-image) |
 | [0556-next-greater-element-iii](https://github.com/nishitasinghhh/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishitasinghhh/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nishitasinghhh/leetcode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/nishitasinghhh/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/nishitasinghhh/leetcode/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nishitasinghhh/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nishitasinghhh/leetcode/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nishitasinghhh/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/nishitasinghhh/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/nishitasinghhh/leetcode/tree/master/0148-sort-list) |
