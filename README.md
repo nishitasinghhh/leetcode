@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/nishitasinghhh/leetcode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/nishitasinghhh/leetcode/tree/master/1073-number-of-enclaves) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/nishitasinghhh/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/nishitasinghhh/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/nishitasinghhh/leetcode/tree/master/1073-number-of-enclaves) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/nishitasinghhh/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nishitasinghhh/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/nishitasinghhh/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishitasinghhh/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nishitasinghhh/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/nishitasinghhh/leetcode/tree/master/1073-number-of-enclaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishitasinghhh/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nishitasinghhh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishitasinghhh/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nishitasinghhh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/nishitasinghhh/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nishitasinghhh/leetcode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/nishitasinghhh/leetcode/tree/master/1073-number-of-enclaves) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -281,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nishitasinghhh/leetcode/tree/master/0148-sort-list) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/nishitasinghhh/leetcode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
