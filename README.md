@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/nishitasinghhh/leetcode/tree/master/1073-number-of-enclaves) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/nishitasinghhh/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1753-path-with-minimum-effort](https://github.com/nishitasinghhh/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/nishitasinghhh/leetcode/tree/master/1073-number-of-enclaves) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/nishitasinghhh/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1753-path-with-minimum-effort](https://github.com/nishitasinghhh/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/nishitasinghhh/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/nishitasinghhh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishitasinghhh/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nishitasinghhh/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1753-path-with-minimum-effort](https://github.com/nishitasinghhh/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishitasinghhh/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/nishitasinghhh/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/nishitasinghhh/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nishitasinghhh/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nishitasinghhh/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1753-path-with-minimum-effort](https://github.com/nishitasinghhh/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3790-fruits-into-baskets-ii](https://github.com/nishitasinghhh/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/nishitasinghhh/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nishitasinghhh/leetcode/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/nishitasinghhh/leetcode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/nishitasinghhh/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -298,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/nishitasinghhh/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/nishitasinghhh/leetcode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/nishitasinghhh/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -310,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/nishitasinghhh/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/nishitasinghhh/leetcode/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
