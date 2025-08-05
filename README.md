@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/nishitasinghhh/leetcode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/nishitasinghhh/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/nishitasinghhh/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/nishitasinghhh/leetcode/tree/master/1073-number-of-enclaves) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/nishitasinghhh/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/nishitasinghhh/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/nishitasinghhh/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/nishitasinghhh/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nishitasinghhh/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/nishitasinghhh/leetcode/tree/master/1073-number-of-enclaves) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/nishitasinghhh/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/nishitasinghhh/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/nishitasinghhh/leetcode/tree/master/0542-01-matrix) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/nishitasinghhh/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Queue
 |  |
 | ------- |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/nishitasinghhh/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/nishitasinghhh/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Segment Tree
 |  |
 | ------- |
@@ -319,5 +323,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/nishitasinghhh/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/nishitasinghhh/leetcode/tree/master/1753-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/nishitasinghhh/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
