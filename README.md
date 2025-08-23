@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nishitasinghhh/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nishitasinghhh/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/nishitasinghhh/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/nishitasinghhh/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nishitasinghhh/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/nishitasinghhh/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/nishitasinghhh/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nishitasinghhh/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nishitasinghhh/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/nishitasinghhh/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nishitasinghhh/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nishitasinghhh/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/nishitasinghhh/leetcode/tree/master/0556-next-greater-element-iii) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/nishitasinghhh/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 ## Sorting
 |  |
 | ------- |
