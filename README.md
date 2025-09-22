@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nishitasinghhh/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nishitasinghhh/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/nishitasinghhh/leetcode/tree/master/0127-word-ladder) |
+| [0141-linked-list-cycle](https://github.com/nishitasinghhh/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishitasinghhh/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/nishitasinghhh/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishitasinghhh/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nishitasinghhh/leetcode/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nishitasinghhh/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0141-linked-list-cycle](https://github.com/nishitasinghhh/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nishitasinghhh/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/nishitasinghhh/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishitasinghhh/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nishitasinghhh/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/nishitasinghhh/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nishitasinghhh/leetcode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/nishitasinghhh/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nishitasinghhh/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/nishitasinghhh/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishitasinghhh/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
