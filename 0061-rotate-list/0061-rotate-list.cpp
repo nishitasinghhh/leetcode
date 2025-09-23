@@ -25,7 +25,7 @@ ListNode* findNew(ListNode* temp, int k)
      return temp;
 }
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head==NULL && k==0)
+        if(head==NULL || k==0)
         return head;
         int len=1;
         ListNode* tail=head;
