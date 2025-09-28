@@ -9,7 +9,7 @@
  */
 class Solution {
 public:
-void findParent(unordered_map<TreeNode*, TreeNode*> &parent, TreeNode* root)
+void findParent(TreeNode* root, unordered_map<TreeNode*, TreeNode*> &parents)
 {
     queue<TreeNode*>q;
     q.push(root);
@@ -19,47 +19,47 @@ void findParent(unordered_map<TreeNode*, TreeNode*> &parent, TreeNode* root)
         q.pop();
         if(node->left)
         {
-            parent[node->left]=node;
+            parents[node->left]=node;
             q.push(node->left);
         }
         if(node->right)
         {
-            parent[node->right]=node;
+            parents[node->right]=node;
             q.push(node->right);
         }
     }
 }
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        unordered_map<TreeNode*, TreeNode*>parent;
-        findParent(parent,root);
-        unordered_map<TreeNode*, bool>vis;
+        unordered_map<TreeNode*, TreeNode*>parents;
+        findParent(root,parents);
+        unordered_map<TreeNode*, bool>visited;
         queue<TreeNode*>q;
         q.push(target);
-        vis[target]=true;
-        int dist=0;
+        visited[target]=true;
+        int dis=0;
         while(!q.empty())
         {
             int size=q.size();
-            if(dist++==k)
+            if(dis++==k)
             break;
             for(int i=0; i<size; i++)
             {
                 TreeNode* node=q.front();
                 q.pop();
-                if(node->left && !vis[node->left])
+                if(node->left && !visited[node->left])
                 {
                     q.push(node->left);
-                    vis[node->left]=true;
+                    visited[node->left]=true;
                 }
-                if(node->right && !vis[node->right])
+                if(node->right && !visited[node->right])
                 {
                     q.push(node->right);
-                    vis[node->right]=true;
+                    visited[node->right]=true;
                 }
-                if(parent[node] && !vis[parent[node]])
+                if(parents[node] && !visited[parents[node]])
                 {
-                    q.push(parent[node]);
-                    vis[parent[node]]=true;
+                    q.push(parents[node]);
+                    visited[parents[node]]=true;
                 }
             }
         }
